@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "found",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"FoundMe.sol": "FoundMe"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"FoundMe.sol": {
+			"keccak256": "0x967913d60ca422fe3c3371ec7f4812b3b262b2786eae9683af2bd6d59619831b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://80b99ae631ab0fe7dc784d34b28d79dcb5620a52d9f6feef8b27841686f09d09",
+				"dweb:/ipfs/QmdFphRQ1SpuTw7tjCG4622R3Jx9MUZtjktvuJjZmRjmhM"
+			]
+		}
+	},
+	"version": 1
+}
